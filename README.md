@@ -115,6 +115,6 @@ plt.ylabel('Errors')
 plt.show()
 ```
 OUTPUT:
-![image]()
+![image](https://github.com/SVDeepu/Experiment-2--Implementation-of-Perceptron/blob/c09698fc19f948783b755c54275dd212ffeb4f4d/WhatsApp%20Image%202022-10-21%20at%2008.35.54.jpeg)
 RESULT:
 Thus, to implement a perceptron for classification using Python is successfully executted.
