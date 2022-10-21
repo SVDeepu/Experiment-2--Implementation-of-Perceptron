@@ -118,5 +118,6 @@ OUTPUT:
 ![image](https://github.com/SVDeepu/Experiment-2--Implementation-of-Perceptron/blob/c09698fc19f948783b755c54275dd212ffeb4f4d/WhatsApp%20Image%202022-10-21%20at%2008.35.54.jpeg)
 ![image](https://github.com/SVDeepu/Experiment-2--Implementation-of-Perceptron/blob/4a1deea56bca051a800b4912bacbe741ff309581/WhatsApp%20Image%202022-10-21%20at%2008.38.06.jpeg)
 ![image](https://github.com/SVDeepu/Experiment-2--Implementation-of-Perceptron/blob/d3c99d3f7a9aff2b042cf1014841e51ebf1b4be9/WhatsApp%20Image%202022-10-21%20at%2008.39.31.jpeg)
+![image](https://github.com/SVDeepu/Experiment-2--Implementation-of-Perceptron/blob/4698b7f142661f289c425d2e6f6ea1a489a403be/WhatsApp%20Image%202022-10-21%20at%2008.40.49.jpeg)
 RESULT:
 Thus, to implement a perceptron for classification using Python is successfully executted.
